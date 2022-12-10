@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-const { castObject } = require("../models/User");
 
 const ConnectDB = async ()=>{
  try{
